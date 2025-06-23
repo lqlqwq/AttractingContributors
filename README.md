@@ -20,3 +20,4 @@ Please write your favorite number！
 - 1
 - 57
 - 5
+- 666
