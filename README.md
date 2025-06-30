@@ -21,4 +21,7 @@ Please write your favorite number！
 - 57
 - 5
 - 666
+- 93
+- 3
+- 8
 - 15
