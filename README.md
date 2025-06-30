@@ -22,3 +22,5 @@ Please write your favorite number！
 - 5
 - 666
 - 93
+- 3
+
