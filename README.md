@@ -8,6 +8,7 @@
 - BUMP OF CHICKEN
 - super beaver
 - LE SSERAFIM
+- kaneko ayano カネコアヤノ
 - Midnight Grand Orchestra
 - Queen
 - 403
