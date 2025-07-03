@@ -8,13 +8,10 @@
 - BUMP OF CHICKEN
 - super beaver
 - LE SSERAFIM
+- Midnight Grand Orchestra
 - Queen
 - 403
 - METALLICA
 - 斉藤和義
 - Jun Maeda
-
-
-
-
 
